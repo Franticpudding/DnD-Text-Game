@@ -3,7 +3,7 @@ RPG Text based game inspired by DnD with a custom story, combat, purchasing and 
 
 Devs:
 
-Franticpudding
+Franticpudding,
 Raptorrr1
 
 Special Thanks to: u/mredding
