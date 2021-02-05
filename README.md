@@ -2,10 +2,14 @@
 RPG Text based game inspired by DnD with a custom story, combat, GUI's purchasing and more.
 Game ENTIRELY coded in raw C++
 
-Devs:
+Code by:
+ Franticpudding
+ 
+Story by:
+ Raptorrr1
 
-Franticpudding,
-Raptorrr1
+Artwork by:
+ yeetusthefeetus45
 
 
 Special Thanks to: u/mredding
