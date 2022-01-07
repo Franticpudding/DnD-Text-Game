@@ -1,6 +1,4 @@
-#RPG Text Game
 RPG Text based game inspired by DnD with a custom story, combat, GUI's purchasing and more.
-RPG Text based game inspired by DnD with a custom story, combat, GUI's, purchasing and more.
 Game ENTIRELY coded in raw C++
 
 Code by:
