@@ -7,10 +7,6 @@ Code by:
 Story by:
  Raptorrr1
 
-Artwork by:
- yeetusthefeetus45
-
-
 Special Thanks to: u/mredding
 
 !! When you run the .exe version of the game, it'll state that it's 'unsafe'. Click more info, press 'run anyway'. Allow the file through windows or your antivirus !!
